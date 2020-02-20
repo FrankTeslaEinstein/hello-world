@@ -7,6 +7,8 @@ void leer(char msg[]);
 
 int main(void){
 	// comentario para git...
+	// de nuevo es otro comentario
+
 	create_UDP (&canal, "192.168.43.94", 8080, "192.168.43.122", 1112);
 	//create_UDP (&canal, "192.168.100.4", 8080, "192.168.100.90", 1112);
 	// inicializando canal UDP
